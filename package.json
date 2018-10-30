@@ -1,0 +1,22 @@
+{
+  "name": "jestsandbox",
+  "version": "1.0.0",
+  "description": "Jest Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadozy/JestSandbox.git"
+  },
+  "author": "Vadim Storozhuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadozy/JestSandbox/issues"
+  },
+  "homepage": "https://github.com/vadozy/JestSandbox#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
